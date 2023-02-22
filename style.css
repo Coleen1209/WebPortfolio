@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+*{
+	font-family: 'Shantell Sans', cursive;
+
+}
+nav{
+	/*creates space from between the ul tag and nave element*/
+	padding: 0.8rem;
+	/*creates space between the nav and the intro section*/
+	margin-bottom: 2rem;
+	border-bottom: 1px solid gray;
+	list-style-type: none;
+	background-color:seagreen ;
+	
+}
+
+.nav-link{
+text-align: right;
+color: black;
+}
+.navbar-brand{
+	color: black;
+	justify-content: center;
+	text-align: center;
+}
+ul{
+	justify-content: right;
+}
+div .navbar-brand{
+justify-content: center;
+}
+.core{
+	display: inline;
+	list-style-type: none;
+}
+div .core{
+	justify-content: center ;
+}
+.purpose{
+	display: inline-block;
+}
+
+.core{
+	background-color: seagreen;
+}
